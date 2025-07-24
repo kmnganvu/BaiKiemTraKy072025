@@ -1,0 +1,11 @@
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.csproj.AssemblyReference.cache
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.AssemblyInfoInputs.cache
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.AssemblyInfo.cs
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.csproj.CoreCompileInputs.cache
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.RazorAssemblyInfo.cache
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.RazorAssemblyInfo.cs
+D:\App code\htdocs\BaiKiemTra072025\TestMVC\obj\Debug\net9.0\TestMVC.sourcelink.json
